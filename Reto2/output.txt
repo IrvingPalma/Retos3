@@ -1,0 +1,819 @@
+Breakpoint 1 at 0x1240
+
+Breakpoint 1, 0x0000555555555240 in limiteASM ()
+Breakpoint 2 at 0x55555555525f
+
+Breakpoint 2, 0x000055555555525f in dividir ()
+<<<---INICIO--->>>
+<<<---DIVISION--->>>
+Breakpoint 3 at 0x555555555270
+
+Breakpoint 3, 0x0000555555555270 in suma ()
+Division: 0.005000
+<<<---SUMA--->>>
+Breakpoint 4 at 0x555555555285
+
+Breakpoint 4, 0x0000555555555285 in bucle ()
+Suma: 1.005000
+<<<---HALLANDO EL LIMITE--->>>
+Multiplicación N°: 1
+
+Breakpoint 4, 0x0000555555555285 in bucle ()
+Potencia parcial: 1.010025
+Multiplicación N°: 2
+
+Breakpoint 4, 0x0000555555555285 in bucle ()
+Potencia parcial: 1.015075
+Multiplicación N°: 3
+
+Breakpoint 4, 0x0000555555555285 in bucle ()
+Potencia parcial: 1.020151
+Multiplicación N°: 4
+
+Breakpoint 4, 0x0000555555555285 in bucle ()
+Potencia parcial: 1.025251
+Multiplicación N°: 5
+
+Breakpoint 4, 0x0000555555555285 in bucle ()
+Potencia parcial: 1.030378
+Multiplicación N°: 6
+
+Breakpoint 4, 0x0000555555555285 in bucle ()
+Potencia parcial: 1.035529
+Multiplicación N°: 7
+
+Breakpoint 4, 0x0000555555555285 in bucle ()
+Potencia parcial: 1.040707
+Multiplicación N°: 8
+
+Breakpoint 4, 0x0000555555555285 in bucle ()
+Potencia parcial: 1.045911
+Multiplicación N°: 9
+
+Breakpoint 4, 0x0000555555555285 in bucle ()
+Potencia parcial: 1.051140
+Multiplicación N°: 10
+
+Breakpoint 4, 0x0000555555555285 in bucle ()
+Potencia parcial: 1.056396
+Multiplicación N°: 11
+
+Breakpoint 4, 0x0000555555555285 in bucle ()
+Potencia parcial: 1.061678
+Multiplicación N°: 12
+
+Breakpoint 4, 0x0000555555555285 in bucle ()
+Potencia parcial: 1.066986
+Multiplicación N°: 13
+
+Breakpoint 4, 0x0000555555555285 in bucle ()
+Potencia parcial: 1.072321
+Multiplicación N°: 14
+
+Breakpoint 4, 0x0000555555555285 in bucle ()
+Potencia parcial: 1.077683
+Multiplicación N°: 15
+
+Breakpoint 4, 0x0000555555555285 in bucle ()
+Potencia parcial: 1.083071
+Multiplicación N°: 16
+
+Breakpoint 4, 0x0000555555555285 in bucle ()
+Potencia parcial: 1.088487
+Multiplicación N°: 17
+
+Breakpoint 4, 0x0000555555555285 in bucle ()
+Potencia parcial: 1.093929
+Multiplicación N°: 18
+
+Breakpoint 4, 0x0000555555555285 in bucle ()
+Potencia parcial: 1.099399
+Multiplicación N°: 19
+
+Breakpoint 4, 0x0000555555555285 in bucle ()
+Potencia parcial: 1.104896
+Multiplicación N°: 20
+
+Breakpoint 4, 0x0000555555555285 in bucle ()
+Potencia parcial: 1.110420
+Multiplicación N°: 21
+
+Breakpoint 4, 0x0000555555555285 in bucle ()
+Potencia parcial: 1.115972
+Multiplicación N°: 22
+
+Breakpoint 4, 0x0000555555555285 in bucle ()
+Potencia parcial: 1.121552
+Multiplicación N°: 23
+
+Breakpoint 4, 0x0000555555555285 in bucle ()
+Potencia parcial: 1.127160
+Multiplicación N°: 24
+
+Breakpoint 4, 0x0000555555555285 in bucle ()
+Potencia parcial: 1.132796
+Multiplicación N°: 25
+
+Breakpoint 4, 0x0000555555555285 in bucle ()
+Potencia parcial: 1.138460
+Multiplicación N°: 26
+
+Breakpoint 4, 0x0000555555555285 in bucle ()
+Potencia parcial: 1.144152
+Multiplicación N°: 27
+
+Breakpoint 4, 0x0000555555555285 in bucle ()
+Potencia parcial: 1.149873
+Multiplicación N°: 28
+
+Breakpoint 4, 0x0000555555555285 in bucle ()
+Potencia parcial: 1.155622
+Multiplicación N°: 29
+
+Breakpoint 4, 0x0000555555555285 in bucle ()
+Potencia parcial: 1.161400
+Multiplicación N°: 30
+
+Breakpoint 4, 0x0000555555555285 in bucle ()
+Potencia parcial: 1.167207
+Multiplicación N°: 31
+
+Breakpoint 4, 0x0000555555555285 in bucle ()
+Potencia parcial: 1.173043
+Multiplicación N°: 32
+
+Breakpoint 4, 0x0000555555555285 in bucle ()
+Potencia parcial: 1.178908
+Multiplicación N°: 33
+
+Breakpoint 4, 0x0000555555555285 in bucle ()
+Potencia parcial: 1.184803
+Multiplicación N°: 34
+
+Breakpoint 4, 0x0000555555555285 in bucle ()
+Potencia parcial: 1.190727
+Multiplicación N°: 35
+
+Breakpoint 4, 0x0000555555555285 in bucle ()
+Potencia parcial: 1.196681
+Multiplicación N°: 36
+
+Breakpoint 4, 0x0000555555555285 in bucle ()
+Potencia parcial: 1.202664
+Multiplicación N°: 37
+
+Breakpoint 4, 0x0000555555555285 in bucle ()
+Potencia parcial: 1.208677
+Multiplicación N°: 38
+
+Breakpoint 4, 0x0000555555555285 in bucle ()
+Potencia parcial: 1.214721
+Multiplicación N°: 39
+
+Breakpoint 4, 0x0000555555555285 in bucle ()
+Potencia parcial: 1.220794
+Multiplicación N°: 40
+
+Breakpoint 4, 0x0000555555555285 in bucle ()
+Potencia parcial: 1.226898
+Multiplicación N°: 41
+
+Breakpoint 4, 0x0000555555555285 in bucle ()
+Potencia parcial: 1.233033
+Multiplicación N°: 42
+
+Breakpoint 4, 0x0000555555555285 in bucle ()
+Potencia parcial: 1.239198
+Multiplicación N°: 43
+
+Breakpoint 4, 0x0000555555555285 in bucle ()
+Potencia parcial: 1.245394
+Multiplicación N°: 44
+
+Breakpoint 4, 0x0000555555555285 in bucle ()
+Potencia parcial: 1.251621
+Multiplicación N°: 45
+
+Breakpoint 4, 0x0000555555555285 in bucle ()
+Potencia parcial: 1.257879
+Multiplicación N°: 46
+
+Breakpoint 4, 0x0000555555555285 in bucle ()
+Potencia parcial: 1.264168
+Multiplicación N°: 47
+
+Breakpoint 4, 0x0000555555555285 in bucle ()
+Potencia parcial: 1.270489
+Multiplicación N°: 48
+
+Breakpoint 4, 0x0000555555555285 in bucle ()
+Potencia parcial: 1.276842
+Multiplicación N°: 49
+
+Breakpoint 4, 0x0000555555555285 in bucle ()
+Potencia parcial: 1.283226
+Multiplicación N°: 50
+
+Breakpoint 4, 0x0000555555555285 in bucle ()
+Potencia parcial: 1.289642
+Multiplicación N°: 51
+
+Breakpoint 4, 0x0000555555555285 in bucle ()
+Potencia parcial: 1.296090
+Multiplicación N°: 52
+
+Breakpoint 4, 0x0000555555555285 in bucle ()
+Potencia parcial: 1.302571
+Multiplicación N°: 53
+
+Breakpoint 4, 0x0000555555555285 in bucle ()
+Potencia parcial: 1.309083
+Multiplicación N°: 54
+
+Breakpoint 4, 0x0000555555555285 in bucle ()
+Potencia parcial: 1.315629
+Multiplicación N°: 55
+
+Breakpoint 4, 0x0000555555555285 in bucle ()
+Potencia parcial: 1.322207
+Multiplicación N°: 56
+
+Breakpoint 4, 0x0000555555555285 in bucle ()
+Potencia parcial: 1.328818
+Multiplicación N°: 57
+
+Breakpoint 4, 0x0000555555555285 in bucle ()
+Potencia parcial: 1.335462
+Multiplicación N°: 58
+
+Breakpoint 4, 0x0000555555555285 in bucle ()
+Potencia parcial: 1.342139
+Multiplicación N°: 59
+
+Breakpoint 4, 0x0000555555555285 in bucle ()
+Potencia parcial: 1.348850
+Multiplicación N°: 60
+
+Breakpoint 4, 0x0000555555555285 in bucle ()
+Potencia parcial: 1.355594
+Multiplicación N°: 61
+
+Breakpoint 4, 0x0000555555555285 in bucle ()
+Potencia parcial: 1.362372
+Multiplicación N°: 62
+
+Breakpoint 4, 0x0000555555555285 in bucle ()
+Potencia parcial: 1.369184
+Multiplicación N°: 63
+
+Breakpoint 4, 0x0000555555555285 in bucle ()
+Potencia parcial: 1.376030
+Multiplicación N°: 64
+
+Breakpoint 4, 0x0000555555555285 in bucle ()
+Potencia parcial: 1.382910
+Multiplicación N°: 65
+
+Breakpoint 4, 0x0000555555555285 in bucle ()
+Potencia parcial: 1.389825
+Multiplicación N°: 66
+
+Breakpoint 4, 0x0000555555555285 in bucle ()
+Potencia parcial: 1.396774
+Multiplicación N°: 67
+
+Breakpoint 4, 0x0000555555555285 in bucle ()
+Potencia parcial: 1.403758
+Multiplicación N°: 68
+
+Breakpoint 4, 0x0000555555555285 in bucle ()
+Potencia parcial: 1.410777
+Multiplicación N°: 69
+
+Breakpoint 4, 0x0000555555555285 in bucle ()
+Potencia parcial: 1.417831
+Multiplicación N°: 70
+
+Breakpoint 4, 0x0000555555555285 in bucle ()
+Potencia parcial: 1.424920
+Multiplicación N°: 71
+
+Breakpoint 4, 0x0000555555555285 in bucle ()
+Potencia parcial: 1.432044
+Multiplicación N°: 72
+
+Breakpoint 4, 0x0000555555555285 in bucle ()
+Potencia parcial: 1.439204
+Multiplicación N°: 73
+
+Breakpoint 4, 0x0000555555555285 in bucle ()
+Potencia parcial: 1.446401
+Multiplicación N°: 74
+
+Breakpoint 4, 0x0000555555555285 in bucle ()
+Potencia parcial: 1.453633
+Multiplicación N°: 75
+
+Breakpoint 4, 0x0000555555555285 in bucle ()
+Potencia parcial: 1.460901
+Multiplicación N°: 76
+
+Breakpoint 4, 0x0000555555555285 in bucle ()
+Potencia parcial: 1.468205
+Multiplicación N°: 77
+
+Breakpoint 4, 0x0000555555555285 in bucle ()
+Potencia parcial: 1.475546
+Multiplicación N°: 78
+
+Breakpoint 4, 0x0000555555555285 in bucle ()
+Potencia parcial: 1.482924
+Multiplicación N°: 79
+
+Breakpoint 4, 0x0000555555555285 in bucle ()
+Potencia parcial: 1.490339
+Multiplicación N°: 80
+
+Breakpoint 4, 0x0000555555555285 in bucle ()
+Potencia parcial: 1.497790
+Multiplicación N°: 81
+
+Breakpoint 4, 0x0000555555555285 in bucle ()
+Potencia parcial: 1.505279
+Multiplicación N°: 82
+
+Breakpoint 4, 0x0000555555555285 in bucle ()
+Potencia parcial: 1.512806
+Multiplicación N°: 83
+
+Breakpoint 4, 0x0000555555555285 in bucle ()
+Potencia parcial: 1.520370
+Multiplicación N°: 84
+
+Breakpoint 4, 0x0000555555555285 in bucle ()
+Potencia parcial: 1.527971
+Multiplicación N°: 85
+
+Breakpoint 4, 0x0000555555555285 in bucle ()
+Potencia parcial: 1.535611
+Multiplicación N°: 86
+
+Breakpoint 4, 0x0000555555555285 in bucle ()
+Potencia parcial: 1.543289
+Multiplicación N°: 87
+
+Breakpoint 4, 0x0000555555555285 in bucle ()
+Potencia parcial: 1.551006
+Multiplicación N°: 88
+
+Breakpoint 4, 0x0000555555555285 in bucle ()
+Potencia parcial: 1.558761
+Multiplicación N°: 89
+
+Breakpoint 4, 0x0000555555555285 in bucle ()
+Potencia parcial: 1.566555
+Multiplicación N°: 90
+
+Breakpoint 4, 0x0000555555555285 in bucle ()
+Potencia parcial: 1.574387
+Multiplicación N°: 91
+
+Breakpoint 4, 0x0000555555555285 in bucle ()
+Potencia parcial: 1.582259
+Multiplicación N°: 92
+
+Breakpoint 4, 0x0000555555555285 in bucle ()
+Potencia parcial: 1.590171
+Multiplicación N°: 93
+
+Breakpoint 4, 0x0000555555555285 in bucle ()
+Potencia parcial: 1.598122
+Multiplicación N°: 94
+
+Breakpoint 4, 0x0000555555555285 in bucle ()
+Potencia parcial: 1.606112
+Multiplicación N°: 95
+
+Breakpoint 4, 0x0000555555555285 in bucle ()
+Potencia parcial: 1.614143
+Multiplicación N°: 96
+
+Breakpoint 4, 0x0000555555555285 in bucle ()
+Potencia parcial: 1.622213
+Multiplicación N°: 97
+
+Breakpoint 4, 0x0000555555555285 in bucle ()
+Potencia parcial: 1.630324
+Multiplicación N°: 98
+
+Breakpoint 4, 0x0000555555555285 in bucle ()
+Potencia parcial: 1.638476
+Multiplicación N°: 99
+
+Breakpoint 4, 0x0000555555555285 in bucle ()
+Potencia parcial: 1.646668
+Multiplicación N°: 100
+
+Breakpoint 4, 0x0000555555555285 in bucle ()
+Potencia parcial: 1.654902
+Multiplicación N°: 101
+
+Breakpoint 4, 0x0000555555555285 in bucle ()
+Potencia parcial: 1.663176
+Multiplicación N°: 102
+
+Breakpoint 4, 0x0000555555555285 in bucle ()
+Potencia parcial: 1.671492
+Multiplicación N°: 103
+
+Breakpoint 4, 0x0000555555555285 in bucle ()
+Potencia parcial: 1.679850
+Multiplicación N°: 104
+
+Breakpoint 4, 0x0000555555555285 in bucle ()
+Potencia parcial: 1.688249
+Multiplicación N°: 105
+
+Breakpoint 4, 0x0000555555555285 in bucle ()
+Potencia parcial: 1.696690
+Multiplicación N°: 106
+
+Breakpoint 4, 0x0000555555555285 in bucle ()
+Potencia parcial: 1.705174
+Multiplicación N°: 107
+
+Breakpoint 4, 0x0000555555555285 in bucle ()
+Potencia parcial: 1.713699
+Multiplicación N°: 108
+
+Breakpoint 4, 0x0000555555555285 in bucle ()
+Potencia parcial: 1.722268
+Multiplicación N°: 109
+
+Breakpoint 4, 0x0000555555555285 in bucle ()
+Potencia parcial: 1.730879
+Multiplicación N°: 110
+
+Breakpoint 4, 0x0000555555555285 in bucle ()
+Potencia parcial: 1.739534
+Multiplicación N°: 111
+
+Breakpoint 4, 0x0000555555555285 in bucle ()
+Potencia parcial: 1.748231
+Multiplicación N°: 112
+
+Breakpoint 4, 0x0000555555555285 in bucle ()
+Potencia parcial: 1.756973
+Multiplicación N°: 113
+
+Breakpoint 4, 0x0000555555555285 in bucle ()
+Potencia parcial: 1.765757
+Multiplicación N°: 114
+
+Breakpoint 4, 0x0000555555555285 in bucle ()
+Potencia parcial: 1.774586
+Multiplicación N°: 115
+
+Breakpoint 4, 0x0000555555555285 in bucle ()
+Potencia parcial: 1.783459
+Multiplicación N°: 116
+
+Breakpoint 4, 0x0000555555555285 in bucle ()
+Potencia parcial: 1.792376
+Multiplicación N°: 117
+
+Breakpoint 4, 0x0000555555555285 in bucle ()
+Potencia parcial: 1.801338
+Multiplicación N°: 118
+
+Breakpoint 4, 0x0000555555555285 in bucle ()
+Potencia parcial: 1.810345
+Multiplicación N°: 119
+
+Breakpoint 4, 0x0000555555555285 in bucle ()
+Potencia parcial: 1.819397
+Multiplicación N°: 120
+
+Breakpoint 4, 0x0000555555555285 in bucle ()
+Potencia parcial: 1.828494
+Multiplicación N°: 121
+
+Breakpoint 4, 0x0000555555555285 in bucle ()
+Potencia parcial: 1.837636
+Multiplicación N°: 122
+
+Breakpoint 4, 0x0000555555555285 in bucle ()
+Potencia parcial: 1.846824
+Multiplicación N°: 123
+
+Breakpoint 4, 0x0000555555555285 in bucle ()
+Potencia parcial: 1.856058
+Multiplicación N°: 124
+
+Breakpoint 4, 0x0000555555555285 in bucle ()
+Potencia parcial: 1.865339
+Multiplicación N°: 125
+
+Breakpoint 4, 0x0000555555555285 in bucle ()
+Potencia parcial: 1.874665
+Multiplicación N°: 126
+
+Breakpoint 4, 0x0000555555555285 in bucle ()
+Potencia parcial: 1.884039
+Multiplicación N°: 127
+
+Breakpoint 4, 0x0000555555555285 in bucle ()
+Potencia parcial: 1.893459
+Multiplicación N°: 128
+
+Breakpoint 4, 0x0000555555555285 in bucle ()
+Potencia parcial: 1.902926
+Multiplicación N°: 129
+
+Breakpoint 4, 0x0000555555555285 in bucle ()
+Potencia parcial: 1.912441
+Multiplicación N°: 130
+
+Breakpoint 4, 0x0000555555555285 in bucle ()
+Potencia parcial: 1.922003
+Multiplicación N°: 131
+
+Breakpoint 4, 0x0000555555555285 in bucle ()
+Potencia parcial: 1.931613
+Multiplicación N°: 132
+
+Breakpoint 4, 0x0000555555555285 in bucle ()
+Potencia parcial: 1.941271
+Multiplicación N°: 133
+
+Breakpoint 4, 0x0000555555555285 in bucle ()
+Potencia parcial: 1.950978
+Multiplicación N°: 134
+
+Breakpoint 4, 0x0000555555555285 in bucle ()
+Potencia parcial: 1.960732
+Multiplicación N°: 135
+
+Breakpoint 4, 0x0000555555555285 in bucle ()
+Potencia parcial: 1.970536
+Multiplicación N°: 136
+
+Breakpoint 4, 0x0000555555555285 in bucle ()
+Potencia parcial: 1.980389
+Multiplicación N°: 137
+
+Breakpoint 4, 0x0000555555555285 in bucle ()
+Potencia parcial: 1.990291
+Multiplicación N°: 138
+
+Breakpoint 4, 0x0000555555555285 in bucle ()
+Potencia parcial: 2.000242
+Multiplicación N°: 139
+
+Breakpoint 4, 0x0000555555555285 in bucle ()
+Potencia parcial: 2.010243
+Multiplicación N°: 140
+
+Breakpoint 4, 0x0000555555555285 in bucle ()
+Potencia parcial: 2.020295
+Multiplicación N°: 141
+
+Breakpoint 4, 0x0000555555555285 in bucle ()
+Potencia parcial: 2.030396
+Multiplicación N°: 142
+
+Breakpoint 4, 0x0000555555555285 in bucle ()
+Potencia parcial: 2.040548
+Multiplicación N°: 143
+
+Breakpoint 4, 0x0000555555555285 in bucle ()
+Potencia parcial: 2.050751
+Multiplicación N°: 144
+
+Breakpoint 4, 0x0000555555555285 in bucle ()
+Potencia parcial: 2.061005
+Multiplicación N°: 145
+
+Breakpoint 4, 0x0000555555555285 in bucle ()
+Potencia parcial: 2.071310
+Multiplicación N°: 146
+
+Breakpoint 4, 0x0000555555555285 in bucle ()
+Potencia parcial: 2.081666
+Multiplicación N°: 147
+
+Breakpoint 4, 0x0000555555555285 in bucle ()
+Potencia parcial: 2.092074
+Multiplicación N°: 148
+
+Breakpoint 4, 0x0000555555555285 in bucle ()
+Potencia parcial: 2.102535
+Multiplicación N°: 149
+
+Breakpoint 4, 0x0000555555555285 in bucle ()
+Potencia parcial: 2.113048
+Multiplicación N°: 150
+
+Breakpoint 4, 0x0000555555555285 in bucle ()
+Potencia parcial: 2.123613
+Multiplicación N°: 151
+
+Breakpoint 4, 0x0000555555555285 in bucle ()
+Potencia parcial: 2.134231
+Multiplicación N°: 152
+
+Breakpoint 4, 0x0000555555555285 in bucle ()
+Potencia parcial: 2.144902
+Multiplicación N°: 153
+
+Breakpoint 4, 0x0000555555555285 in bucle ()
+Potencia parcial: 2.155626
+Multiplicación N°: 154
+
+Breakpoint 4, 0x0000555555555285 in bucle ()
+Potencia parcial: 2.166405
+Multiplicación N°: 155
+
+Breakpoint 4, 0x0000555555555285 in bucle ()
+Potencia parcial: 2.177237
+Multiplicación N°: 156
+
+Breakpoint 4, 0x0000555555555285 in bucle ()
+Potencia parcial: 2.188123
+Multiplicación N°: 157
+
+Breakpoint 4, 0x0000555555555285 in bucle ()
+Potencia parcial: 2.199063
+Multiplicación N°: 158
+
+Breakpoint 4, 0x0000555555555285 in bucle ()
+Potencia parcial: 2.210059
+Multiplicación N°: 159
+
+Breakpoint 4, 0x0000555555555285 in bucle ()
+Potencia parcial: 2.221109
+Multiplicación N°: 160
+
+Breakpoint 4, 0x0000555555555285 in bucle ()
+Potencia parcial: 2.232215
+Multiplicación N°: 161
+
+Breakpoint 4, 0x0000555555555285 in bucle ()
+Potencia parcial: 2.243376
+Multiplicación N°: 162
+
+Breakpoint 4, 0x0000555555555285 in bucle ()
+Potencia parcial: 2.254593
+Multiplicación N°: 163
+
+Breakpoint 4, 0x0000555555555285 in bucle ()
+Potencia parcial: 2.265866
+Multiplicación N°: 164
+
+Breakpoint 4, 0x0000555555555285 in bucle ()
+Potencia parcial: 2.277195
+Multiplicación N°: 165
+
+Breakpoint 4, 0x0000555555555285 in bucle ()
+Potencia parcial: 2.288581
+Multiplicación N°: 166
+
+Breakpoint 4, 0x0000555555555285 in bucle ()
+Potencia parcial: 2.300024
+Multiplicación N°: 167
+
+Breakpoint 4, 0x0000555555555285 in bucle ()
+Potencia parcial: 2.311524
+Multiplicación N°: 168
+
+Breakpoint 4, 0x0000555555555285 in bucle ()
+Potencia parcial: 2.323081
+Multiplicación N°: 169
+
+Breakpoint 4, 0x0000555555555285 in bucle ()
+Potencia parcial: 2.334697
+Multiplicación N°: 170
+
+Breakpoint 4, 0x0000555555555285 in bucle ()
+Potencia parcial: 2.346370
+Multiplicación N°: 171
+
+Breakpoint 4, 0x0000555555555285 in bucle ()
+Potencia parcial: 2.358102
+Multiplicación N°: 172
+
+Breakpoint 4, 0x0000555555555285 in bucle ()
+Potencia parcial: 2.369893
+Multiplicación N°: 173
+
+Breakpoint 4, 0x0000555555555285 in bucle ()
+Potencia parcial: 2.381742
+Multiplicación N°: 174
+
+Breakpoint 4, 0x0000555555555285 in bucle ()
+Potencia parcial: 2.393651
+Multiplicación N°: 175
+
+Breakpoint 4, 0x0000555555555285 in bucle ()
+Potencia parcial: 2.405619
+Multiplicación N°: 176
+
+Breakpoint 4, 0x0000555555555285 in bucle ()
+Potencia parcial: 2.417647
+Multiplicación N°: 177
+
+Breakpoint 4, 0x0000555555555285 in bucle ()
+Potencia parcial: 2.429735
+Multiplicación N°: 178
+
+Breakpoint 4, 0x0000555555555285 in bucle ()
+Potencia parcial: 2.441884
+Multiplicación N°: 179
+
+Breakpoint 4, 0x0000555555555285 in bucle ()
+Potencia parcial: 2.454094
+Multiplicación N°: 180
+
+Breakpoint 4, 0x0000555555555285 in bucle ()
+Potencia parcial: 2.466364
+Multiplicación N°: 181
+
+Breakpoint 4, 0x0000555555555285 in bucle ()
+Potencia parcial: 2.478696
+Multiplicación N°: 182
+
+Breakpoint 4, 0x0000555555555285 in bucle ()
+Potencia parcial: 2.491089
+Multiplicación N°: 183
+
+Breakpoint 4, 0x0000555555555285 in bucle ()
+Potencia parcial: 2.503545
+Multiplicación N°: 184
+
+Breakpoint 4, 0x0000555555555285 in bucle ()
+Potencia parcial: 2.516062
+Multiplicación N°: 185
+
+Breakpoint 4, 0x0000555555555285 in bucle ()
+Potencia parcial: 2.528643
+Multiplicación N°: 186
+
+Breakpoint 4, 0x0000555555555285 in bucle ()
+Potencia parcial: 2.541286
+Multiplicación N°: 187
+
+Breakpoint 4, 0x0000555555555285 in bucle ()
+Potencia parcial: 2.553992
+Multiplicación N°: 188
+
+Breakpoint 4, 0x0000555555555285 in bucle ()
+Potencia parcial: 2.566762
+Multiplicación N°: 189
+
+Breakpoint 4, 0x0000555555555285 in bucle ()
+Potencia parcial: 2.579596
+Multiplicación N°: 190
+
+Breakpoint 4, 0x0000555555555285 in bucle ()
+Potencia parcial: 2.592494
+Multiplicación N°: 191
+
+Breakpoint 4, 0x0000555555555285 in bucle ()
+Potencia parcial: 2.605457
+Multiplicación N°: 192
+
+Breakpoint 4, 0x0000555555555285 in bucle ()
+Potencia parcial: 2.618484
+Multiplicación N°: 193
+
+Breakpoint 4, 0x0000555555555285 in bucle ()
+Potencia parcial: 2.631576
+Multiplicación N°: 194
+
+Breakpoint 4, 0x0000555555555285 in bucle ()
+Potencia parcial: 2.644734
+Multiplicación N°: 195
+
+Breakpoint 4, 0x0000555555555285 in bucle ()
+Potencia parcial: 2.657958
+Multiplicación N°: 196
+
+Breakpoint 4, 0x0000555555555285 in bucle ()
+Potencia parcial: 2.671248
+Multiplicación N°: 197
+
+Breakpoint 4, 0x0000555555555285 in bucle ()
+Potencia parcial: 2.684604
+Multiplicación N°: 198
+
+Breakpoint 4, 0x0000555555555285 in bucle ()
+Potencia parcial: 2.698027
+Multiplicación N°: 199
+
+Breakpoint 4, 0x0000555555555285 in bucle ()
+Potencia parcial: 2.711517
+Breakpoint 5 at 0x555555555297
+
+Breakpoint 5, 0x0000555555555297 in done ()
+Valor aproximado de e: 2.711517
+<<<---FIN--->>>
