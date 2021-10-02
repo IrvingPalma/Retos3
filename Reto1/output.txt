@@ -1,0 +1,58 @@
+Breakpoint 1 at 0x1380
+
+Breakpoint 1, 0x0000555555555380 in ASMvarianza ()
+Breakpoint 2 at 0x55555555539f
+
+Breakpoint 2, 0x000055555555539f in media ()
+<<<---INICIO--->>>
+<<<---HALLANDO LA MEDIA--->>>
+
+Breakpoint 2, 0x000055555555539f in media ()
+Contador: 1
+SumaParcial: 0.100000
+
+Breakpoint 2, 0x000055555555539f in media ()
+Contador: 2
+SumaParcial: 0.220000
+
+Breakpoint 2, 0x000055555555539f in media ()
+Contador: 3
+SumaParcial: 0.520000
+
+Breakpoint 2, 0x000055555555539f in media ()
+Contador: 4
+SumaParcial: 0.970000
+Breakpoint 3 at 0x5555555553bb
+
+Breakpoint 3, 0x00005555555553bb in sum_cuadrados ()
+Media de datos ingresados: 0.242500
+<<<---HALLANDO LA SUMA DE DIFERENCIAS AL CUADRADO--->>>
+Breakpoint 4 at 0x5555555553c0
+
+Breakpoint 4, 0x00005555555553c0 in bucle1 ()
+
+Breakpoint 4, 0x00005555555553c0 in bucle1 ()
+Contador: 1
+Resta con media al cuadrado: 0.020306
+SumaParcial: 0.020306
+
+Breakpoint 4, 0x00005555555553c0 in bucle1 ()
+Contador: 2
+Resta con media al cuadrado: 0.015006
+SumaParcial: 0.035312
+
+Breakpoint 4, 0x00005555555553c0 in bucle1 ()
+Contador: 3
+Resta con media al cuadrado: 0.003306
+SumaParcial: 0.038619
+
+Breakpoint 4, 0x00005555555553c0 in bucle1 ()
+Contador: 4
+Resta con media al cuadrado: 0.043056
+SumaParcial: 0.081675
+Suma final: 0.081675
+Breakpoint 5 at 0x5555555553e3
+
+Breakpoint 5, 0x00005555555553e3 in done ()
+Varianza: 0.020419
+<<<---FIN--->>>
